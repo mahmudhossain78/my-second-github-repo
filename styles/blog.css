@@ -1,5 +1,29 @@
 div{
-    background-color: tomato;
+    color: black;
+    background-color: rgb(197, 185, 181);
     padding: 20px;
     margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;   
+}
+h3{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    /* margin: 10px 20px; */
+    text-align: left;
+    -ms-text-combine-horizontal: all;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: left;
+    margin: 10px 20px;
+}
+.blog{
+    margin: 10px;
+    padding: px;
+    border: 10px solid #2c2020;
+    border-radius: 10px;
+    background-color: #4c2a2a;
 }
